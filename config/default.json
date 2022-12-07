@@ -1,0 +1,15 @@
+{
+  "application": {
+    "port": 3000
+  },
+  "cors": {
+  },
+  "helmet": {
+  },
+  "logger": {
+    "level": "debug"
+  },
+  "mongodb": {
+    "uri": "mongodb://localhost:27017/tdc-future-2022-nodejs-api-rest"
+  }
+}
