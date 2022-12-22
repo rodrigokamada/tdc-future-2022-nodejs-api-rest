@@ -11,7 +11,8 @@
     "openapi",
     "mongodb",
     "nodejs",
-    "swagger"
+    "swagger",
+    "typescript"
   ],
   "repository": {
     "type": "git",
